@@ -1,1 +1,5 @@
-alert("Hello");
+newFunction();
+
+function newFunction() {
+    alert("Hello");
+}
